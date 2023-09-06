@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+I am currently learning how to understand and write code in JavaScript!
+I can really use all the help I can get lol!
+Ask me about anything!
+You can either reach me through my cell or email!
+My pronouns are she/her!
+A fun fact is I am from Brooklyn, New York and haven't even been in Pittsburgh for a full year!
